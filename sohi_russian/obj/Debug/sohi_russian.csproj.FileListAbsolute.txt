@@ -1,0 +1,15 @@
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\bin\Debug\sohi_russian.exe.config
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\bin\Debug\sohi_russian.exe
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\bin\Debug\sohi_russian.pdb
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.Form1.resources
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.Form2.resources
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.Properties.Resources.resources
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.exe
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.pdb
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\bin\Debug\nunit.framework.dll
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\bin\Debug\nunit.framework.pdb
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\bin\Debug\nunit.framework.xml
+C:\Users\sunny\source\repos\sohi_russian\sohi_russian\obj\Debug\sohi_russian.csproj.CopyComplete
